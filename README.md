@@ -31,7 +31,7 @@ You will also need the following Python libraries:
    python -m venv venv
    source venv/bin/activate   # On macOS/Linux
    venv\Scripts\activate      # On Windows
-3. **Open in Pycharm**
+3. **Open in Pycharm (If Virtual Environment Created)**
 - Open Pycharm
 - Select File > Open and navigate to the project folder
 - Pycharm should automatically detect the venv if created. If not, configure the Python interpretor manually through File > Settings > Python Interpreter
