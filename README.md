@@ -13,10 +13,6 @@ Ensure you have the following installed:
 - **Python 3.8 or higher**
 - **PyCharm (optional)**: Recommended for a better development experience.
 
-You will also need the following Python libraries:
-
-- None (this project relies only on standard Python libraries).
-
 ---
 
 ## Setup
