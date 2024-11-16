@@ -20,8 +20,8 @@ Ensure you have the following installed:
 1. **Clone the Repository**  
    Clone the project repository to your local machine using:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone git@github.com:86xenon/Showcase.git   # Using SSH
+   cd showcaseLeanTech
 2. **Create a Virtual Environment (Optional)**
    ```bash
    python -m venv venv
@@ -37,8 +37,10 @@ Ensure you have the following installed:
     python main.py
 
 ## Usage
-When you run the script, it will prompt you for a monetary amount. Enter the amount in the format Dollars.Cents. Example:
-  Please enter the amount: 123.45
+When you run the script, it will prompt you for a monetary amount. Enter the amount in the format Dollars.Cents. 
+   - Example:
+     ```bash
+     Please enter the amount: 123.45
 
 ## Testing
 This project includes unit tests to ensure correct functionality. You can run the tests as follows: 
