@@ -20,7 +20,9 @@ Ensure you have the following installed:
 1. **Clone the Repository**  
    Clone the project repository to your local machine using:
    ```bash
-   git clone git@github.com:86xenon/Showcase.git   # Using SSH
+   git clone git@github.com:86xenon/Showcase.git       # Using SSH
+   git clone https://github.com/86xenon/Showcase.git   # Using HTTPS
+   cd Showcase
    cd showcaseLeanTech
 2. **Create a Virtual Environment (Optional)**
    ```bash
